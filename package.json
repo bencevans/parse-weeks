@@ -1,0 +1,31 @@
+{
+  "name": "parse-weeks",
+  "version": "0.0.0",
+  "description": "Parse a comma separated list of ranges and numbers into an array of all numbers covered",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencevans/parse-weeks.git"
+  },
+  "keywords": [
+    "weeks",
+    "parse",
+    "ranges",
+    "calendar"
+  ],
+  "author": "Ben Evans <ben@bluechimp.io> (https://bencevans.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bencevans/parse-weeks/issues"
+  },
+  "homepage": "https://github.com/bencevans/parse-weeks#readme",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  },
+  "dependencies": {
+    "debug": "^3.1.0"
+  }
+}
