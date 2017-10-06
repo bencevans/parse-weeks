@@ -1,6 +1,6 @@
 {
   "name": "parse-weeks",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parse a comma separated list of ranges and numbers into an array of all numbers covered",
   "main": "index.js",
   "scripts": {
