@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/bencevans/parse-weeks#readme",
   "devDependencies": {
-    "tape": "^4.8.0"
+    "tape": "^5.0.1"
   },
   "dependencies": {
     "debug": "^4.2.0"
